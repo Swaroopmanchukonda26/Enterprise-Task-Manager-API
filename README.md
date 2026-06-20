@@ -10,3 +10,4 @@ A full-stack web service environment engineered in Python using Flask and Flask-
 ## 🛠️ Software Stack Specs
 * **Language Framework:** Python 3.x
 * **Core Packages:** Flask Server Ecosystem, SQLAlchemy Database Engine Core
+ 
